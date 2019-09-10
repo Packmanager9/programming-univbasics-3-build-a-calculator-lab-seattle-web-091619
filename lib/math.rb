@@ -21,9 +21,9 @@ end
 def square_root(num)
 deck = 1;
 holder = 0
-for deck < (num/deck) do
+for deck <= (num/deck) do
 holder=(num/deck)
-for holder = deck do
+for holder == deck do
   return deck
 end
 end
