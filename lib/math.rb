@@ -23,10 +23,11 @@ deck = 1;
 holder = 0
 for deck < (num/deck) do
 holder=(num/deck)
-if holder == deck do
+for holder == deck do
   return deck
 end
 end
 
 
 end
+ww
