@@ -19,5 +19,14 @@ num1%num2
 end
 
 def square_root(num)
+deck = 1;
+holder = 0
+for deck < (num/deck) do
+holder=(num/deck)
+if holder == deck
+  return deck
+end
+end
+
 
 end
